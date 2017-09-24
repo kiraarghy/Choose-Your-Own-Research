@@ -6,7 +6,7 @@ This app was intended as a quick and fun teaching tool at a previous job to teac
 
 Landing page of the app:
 
-![alt text] (https://github.com/shtekhler/Choose-Your-Own-Research/blob/master/Screen%20Shot%202017-09-24%20at%2011.26.49.png "Landing page")
+![alt text](https://github.com/shtekhler/Choose-Your-Own-Research/blob/master/Screen%20Shot%202017-09-24%20at%2011.26.49.png "Landing page")
 
 The app took you through the process of applying to regulatory bodies for clinical research trials. It would present information, have questions, each question taking you down a slightly modified path. An example of this path would be: 
 
@@ -17,7 +17,7 @@ It also has the ability to save the choices that you made and then output these 
                                                                            
   Output: Wants to apply for funding opportunity x, needs to have regulatory approval y.
 
-![alt text] (https://github.com/shtekhler/Choose-Your-Own-Research/blob/master/Screen%20Shot%202017-09-24%20at%2011.27.48.png "Output page")
+![alt text](https://github.com/shtekhler/Choose-Your-Own-Research/blob/master/Screen%20Shot%202017-09-24%20at%2011.27.48.png "Output page")
 
 This was well received by researchers, and when used cut down on the amount of time the research team had to teach researchers the regulatory approvals pathway. It eventually got put forwards for a National Institute for Health Research continual improvement award.
 
